@@ -1,0 +1,11 @@
+<paste log output from Kubernetes-mediated prediction, here>
+(.devops) C02ZG2A7LVDT:project-ml-microservice-kubernetes anorum$ ./run_kubernetes.sh 
+Error from server (AlreadyExists): pods "udacitykube" already exists
+NAME          READY   STATUS    RESTARTS   AGE
+udacitykube   1/1     Running   0          2s
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
+Handling connection for 8000
+Handling connection for 8000
+Handling connection for 8000
