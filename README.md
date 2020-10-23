@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![<anorum>](https://circleci.com/gh/anorum/project-ml-microservice-kubernetes.svg?style=svg)](https://app.circleci.com/pipelines/github/anorum/project-ml-microservice-kubernetes)
 
 ## Project Overview
 
