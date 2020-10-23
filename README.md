@@ -11,13 +11,13 @@ The repo contains a simple flask app which contains a pre-trained, `sklearn` mod
 * Run `make install` to install the necessary dependencies
 
 ## The Files
-* app.py - The flask app which powers the sklearn prediction and flask api
-* Dockerfile - The docker environment which runs the flask app
-* make_prediction.sh - An example of how to call the API to make a prediction
-* Makefile - The Makefile to aid with setup of the environment and linting for the flask app
-* run_docker.sh - A simple docker script which will build and run the Dockerfile for the flask app
-* upload_docker.sh - A shell script to upload the Dockerfile to hub.docker.com. 
-* run_kubernetes.sh - Once minikube is running (see Kubernetes Steps below) this will spin up a Kubernetes pod which runs the Flask app.
+* `app.py` - The flask app which powers the sklearn prediction and flask api
+* `Dockerfile` - The docker environment which runs the flask app
+* `make_prediction.sh` - An example of how to call the API to make a prediction
+* `Makefile` - The Makefile to aid with setup of the environment and linting for the flask app
+* `run_docker.sh` - A simple docker script which will build and run the Dockerfile for the flask app
+* `upload_docker.sh` - A shell script to upload the Dockerfile to hub.docker.com. 
+* `run_kubernetes.sh` - Once minikube is running (see Kubernetes Steps below) this will spin up a Kubernetes pod which runs the Flask app.
 
 ### Running `app.py`
 
